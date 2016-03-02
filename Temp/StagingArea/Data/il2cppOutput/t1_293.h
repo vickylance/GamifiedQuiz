@@ -1,0 +1,26 @@
+﻿#pragma once
+
+#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+#include <stdint.h>
+
+struct t1_285;
+struct t1_294;
+struct t1_18;
+struct t1_37;
+
+#include "t1_37.h"
+
+struct  t1_293  : public t1_37
+{
+	t1_285 * f7;
+	t1_294 * f8;
+	t1_18* f9;
+	t1_37 * f10;
+};
